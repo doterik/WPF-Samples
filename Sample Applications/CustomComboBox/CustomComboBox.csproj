@@ -6,4 +6,7 @@
     <RootNamespace>CustomComboBox</RootNamespace>
     <AssemblyName>CustomComboBox</AssemblyName>
   </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Properties\" />
+  </ItemGroup>
 </Project>
