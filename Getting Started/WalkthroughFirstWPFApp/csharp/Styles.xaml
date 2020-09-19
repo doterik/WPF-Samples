@@ -1,6 +1,6 @@
 ﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-                    xmlns:local="clr-namespace:ExpenseIt9">
+                    xmlns:local="clr-namespace:ExpenseIt">
 
     <!-- Header text style -->
     <Style x:Key="HeaderTextStyle">

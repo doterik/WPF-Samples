@@ -4,7 +4,7 @@
 using System;
 using System.Windows.Forms;
 
-namespace SelectionPatternTarget
+namespace SelectionTarget
 {
     public partial class Target : Form
     {

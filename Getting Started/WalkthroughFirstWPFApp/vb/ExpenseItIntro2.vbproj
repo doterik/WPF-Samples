@@ -3,8 +3,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UseWPF>true</UseWPF>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>ExpenseIt9</RootNamespace>
-    <AssemblyName>ExpenseIt9</AssemblyName>
+    <RootNamespace>ExpenseIt</RootNamespace>
+    <AssemblyName>ExpenseIt</AssemblyName>
     <LangVersion>14.0</LangVersion>
   </PropertyGroup>
   <ItemGroup>

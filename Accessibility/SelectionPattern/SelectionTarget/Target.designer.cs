@@ -1,4 +1,4 @@
-namespace SelectionPatternTarget
+namespace SelectionTarget
 {
     /// <summary>
     /// The target application for the SelectionPattern Sample.

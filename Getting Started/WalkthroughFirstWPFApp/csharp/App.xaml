@@ -1,11 +1,11 @@
-﻿<Application x:Class="ExpenseIt7.App"
+﻿<Application x:Class="ExpenseIt.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
-                <ResourceDictionary Source="/ExpenseIt9;component/Styles.xaml">
+                <ResourceDictionary Source="/ExpenseIt;component/Styles.xaml">
                 </ResourceDictionary>
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>

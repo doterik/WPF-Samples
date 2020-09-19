@@ -3,7 +3,7 @@
                     xmlns:local="clr-namespace:ExpenseItDemo">
 
     <Style x:Key="WatermarkImage" TargetType="{x:Type Image}">
-        <Setter Property="Source" Value="/ExpenseIt9;component/watermark.png" />
+        <Setter Property="Source" Value="/ExpenseItDemo;component/watermark.png" />
         <Setter Property="HorizontalAlignment" Value="left" />
         <Setter Property="VerticalAlignment" Value="top" />
         <Setter Property="Width" Value="230" />

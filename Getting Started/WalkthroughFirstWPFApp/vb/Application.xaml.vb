@@ -1,6 +1,6 @@
 Imports System.Windows
 
-Namespace ExpenseIt9
+Namespace ExpenseIt
 	''' <summary>
 	''' Interaction logic for App.xaml
 	''' </summary>

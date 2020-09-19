@@ -7,7 +7,7 @@
 
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
-                <ResourceDictionary Source="/ExpenseIt9;component/Styles.xaml" />
+                <ResourceDictionary Source="/ExpenseItDemo;component/Styles.xaml" />
             </ResourceDictionary.MergedDictionaries>
             <ExpenseReport x:Key="ExpenseData"
                        xmlns="clr-namespace:ExpenseItDemo"
